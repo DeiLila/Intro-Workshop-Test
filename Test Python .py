@@ -47,11 +47,11 @@ def cave_path():
     
     description = "You walk toward the dark, spooky cave..."
     
-    option_1 = "Type the first choice here..."
-    outcome_1 = "Type what happens if they pick the first choice..."
+    option_1 = "Choose the tunnel to the left"
+    outcome_1 = "There is a hungry beast waiting for a meal to come through"
     
-    option_2 = "Type the second choice here..."
-    outcome_2 = "Type what happens if they pick the second choice..."
+    option_2 = "Choose the tunnel on the right"
+    outcome_2 = "There ia a family of bats flying everywhere"
     
     # --- DO NOT EDIT BELOW THIS LINE ---
     print("\n" + description)
