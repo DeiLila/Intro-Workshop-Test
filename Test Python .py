@@ -20,11 +20,11 @@ def river_path():
     
     description = "You walk toward the rushing river..."
     
-    option_1 = "Type the first choice here..."
-    outcome_1 = "Type what happens if they pick the first choice..."
+    option_1 = "Attempt to cross..."
+    outcome_1 = "You try to step on the rocks, thinking they'd form a nice path, but you quickly slip and stumble, and now your clothes are all wet. Perhaps crossing was ill-advised..."
     
-    option_2 = "Type the second choice here..."
-    outcome_2 = "Type what happens if they pick the second choice..."
+    option_2 = "Follow the course of the river..."
+    outcome_2 = "After what feels like at least 10 minutes of walking, you come across what looks to be a miniature settlement deep in the brush..."
     
     # --- DO NOT EDIT BELOW THIS LINE ---
     print("\n" + description)
